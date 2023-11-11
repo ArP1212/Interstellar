@@ -1,8 +1,8 @@
-# Orion
+# Interstellar
 
 ## Simple, lightweight & intuitive camouflage tracker
 
-Orion is a Call of Duty: Modern Warfare 2 (2022) camouflage tracker to easily manage your progress towards the *Orion* camouflage. This tool is a sequel to the tracker tools made for [Modern Warfare (2019)](https://damascus.vercel.app/), [Cold War (2020)](https://coldwar.vercel.app/) and [Vanguard (2021)](https://vanguard.emca.app/).
+Orion is a Call of Duty: Modern Warfare 2 (2022) camouflage tracker to easily manage your progress towards the *Orion* camouflage. Orihinal made by https://github.com/carlssonemil/orion , this is simply an updated version for Call of Duty: Modern Warfare 3
 
 ## Features
 
